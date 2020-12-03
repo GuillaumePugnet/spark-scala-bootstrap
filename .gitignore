@@ -1,0 +1,12 @@
+# ~/.gitignore
+.bloop/
+.bsp/
+.metals/
+.vscode/
+.ammonite/
+metals.sbt
+project/.bloop/
+project/project/
+project/target/
+project/metals.sbt
+target/
