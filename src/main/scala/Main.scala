@@ -1,3 +1,5 @@
+package guillaumepugnet.scala.template.helloworld
+
 import org.apache.spark.sql.SparkSession
 
 object Main {
